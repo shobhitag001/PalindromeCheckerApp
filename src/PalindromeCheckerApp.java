@@ -27,14 +27,11 @@ public class PalindromeCheckerApp {
             }
         }
 
-        // Print result
+        // Print output
         if (isPalindrome) {
             System.out.println("The word \"" + input + "\" is a Palindrome.");
         } else {
             System.out.println("The word \"" + input + "\" is NOT a Palindrome.");
         }
-
-
-
     }
 }
